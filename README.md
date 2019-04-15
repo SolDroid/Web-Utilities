@@ -8,12 +8,12 @@ Most schools have blocked the javascript console on their chromebooks, so as a s
 In the head:
 
 ```html
-  <script src="utilities.glitch.me/console.js"></script>
+  <script src="https://web-utilities-.glitch.me/console.js"></script>
 ```
 
 And wherever you wish to have your substitute console:
 ```html
-<div id="console-utility"></div>
+  <div id="console-utility"></div>
 ```
 
 And you're done!
