@@ -1,7 +1,6 @@
 Utilities
 =====
-__________________
-
+-----
 Console Substitute
 ------
 Most schools have blocked the javascript console on their chromebooks, so as a substitute, you can copy this into your html website:
